@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form_{
+    text-align: center;
+    align-items: center;
+  
+    
+}
+.form_ [placeholder="Digite o nome da cidade"]{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.beta{
+    text-align: center;
+    align-items: center;
+}
+
+
+.form_[type="texto"]{
+    height: 50px;
+    width: 800px;
+    background: cornflowerblue;
+   
+
+}.Title{
+    text-align: center;
+    align-items: center;
+    margin-top: 2%;
+}
+.tela{
+    margin-top:2%;
+    text-align: center;
+    align-items: center;
+    background-color: #e7e7e7;
+    
+}
+
+.entrada_da_cidade{
+    text-align: center;
+}
+
+.entrada_da_cidade[type=texto]{
+    height: 35px;
+    width: 325px;
+    background: #e7e7e7;
+}
+
+.entrada_da_cidade[type = submit]{
+    height: 35px;
+    width: 350px;
+    background: #e7e7e7;
+}
+.button{
+    height: 35px;
+    width: 75px;
+    
+}
+
+.nome_da_cidade{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    
+}
+
+.temperatura_minima{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.temperatura_máxima{
+    margin-top: 1%;
+    margin-bottom: 1%;
+   
+}
+.umidade{
+    margin-top: 1%;
+    margin-bottom: 1%;
+   
+}
+
+.pais{
+    margin-top: 1%;
+    margin-bottom: 1%;
+   
+    
+}

@@ -1,0 +1,181 @@
+.h1_ {
+    justify-content: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.e{
+    background-color: #e7e7e7;
+}
+.container{
+    margin-top: 3%;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+    
+}
+.di1 [placeholder="Digite o titulo"]{
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;  
+}
+
+.div22 [placeholder="Faça anotações" ]{
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;    
+}
+
+.d {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.a{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.from{
+align-items: center;
+
+justify-content: center;
+left: 43%;
+}
+
+.di1{
+   
+    align-items: center;
+    display: flex;
+    
+}
+.di2{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.div22{
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+#informacoes {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    
+    
+}
+
+#informacoes div{ 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    margin-top: 55px;
+    /* padding-bottom: 25px; */
+    
+    
+   
+    
+}
+
+
+#informacoes h1{
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100;
+    height: 50;
+    text-overflow: '.';
+    background-color: rgb(255, 255, 255);
+
+
+}
+#informacoes div :first-child{
+    margin-top: 0px;
+}
+
+#d p{
+    color:  black;
+    
+}
+#d{
+    margin: auto;
+    
+}
+
+#b{
+    margin-bottom: 10px;
+}
+
+
+#informacoes button{ 
+    background-color: red;
+    border-style: solid;
+    border-width: medium;
+    height: 35px;
+    width: 100px;
+    background:  red;
+    border-color: red;
+    border-style: solid;
+    border-width: medium;
+    color: white;
+}
+
+#informacoes button.textContent{ 
+    background-color:  rgb(255, 255, 255);
+
+}
+.di1 [type = text]{
+    height: 25px;
+    width: 350px;
+}
+
+.div22 [name = mensagem]{
+    height: 85px;
+    width: 350px;
+}
+
+.center [type=button]{
+    margin-top: 1%;
+    height: 35px;
+    width: 100px;
+    background:  rgb(1, 18, 250);
+    border-color: rgb(1, 18, 250);
+    border-style: solid;
+    border-width: medium;
+}
+
+
+
+
+#button{
+    background-color:  rgb(255, 255, 255);
+}
+
+#Deletar {
+    background-color:  rgb(255, 255, 255);
+}
+
